@@ -67,7 +67,7 @@ var files = (function () {
         }
     };
     Singleton.defaultOptions = {
-        "download.txt": "https://example.com",
+        "download.txt": "https://github.com/Azapru/cmGame/releases/download/2022.0/cmGame-latest.zip",
 	    "examples.txt": "Nothing for now!",
 		"changelog.txt": "Nothing for now!",
 		"github.txt": "https://github.com/Azapru/cmGame",
