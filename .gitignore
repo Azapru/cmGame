@@ -1,2 +1,5 @@
-update.cmd
+/build
+cmGame-latest.zip
 cmGameSource.001
+*.cmd
+*.cmGame
