@@ -67,11 +67,11 @@ var files = (function () {
         }
     };
     Singleton.defaultOptions = {
-        "download.txt": "https://github.com/Azapru/cmGame/releases/download/2022.1/cmGame-2022.1.zip",
+        "download.txt": "https://github.com/Azapru/cmGame/releases/download/2022.2/cmGame-2022.2.zip",
 	    "examples.txt": "Nothing for now!",
 		"changelog.txt": "Nothing for now!",
 		"github.txt": "https://github.com/Azapru/cmGame",
-		"about.txt": "cmGame by Azapruu\nBuilt on Clickteam Fusion 2.5\nWebsite template by luisbraganca",
+		"about.txt": "cmGame by Azapruu\nBuilt on Clickteam Fusion 2.5\nWebsite template by luisbraganca\ncmGame uses Window's CMD which is owned by Microsoft",
     };
     return {
         getInstance: function (options) {
